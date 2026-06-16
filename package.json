@@ -1,0 +1,8 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive 3D Gamer Portfolio website.",
+  "scripts": {
+    "dev": "npx -y serve -l 8000 ./"
+  }
+}
